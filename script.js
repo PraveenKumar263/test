@@ -6,6 +6,7 @@
 // Step 1: Create a XHR Object
 var request = new XMLHttpRequest()
 
+
 // Step 2: Initate a requst / Open a request
 // Indicates the API your using to extract data
 request.open("GET", "https://restcountries.com/v3.1/all")
